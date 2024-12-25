@@ -17,12 +17,12 @@ height:50px;
 width:100px;
 }
 .logo {
-    height: 55px; /* Set the height of the logo */
-    width: 100%; /* Set the width of the logo */
-    background-image: url("images/logo1.png"); /* Set the background image */
-    background-size: cover; /* Cover the entire container while maintaining aspect ratio */
+    height: 55px;  
+    width: 100%; 
+    background-image: url("images/logo1.png"); 
+    background-size: cover; 
      
-    background-position: center; /* Center the image within the container */
+    background-position: center;  
 }
 
 .border{
@@ -133,7 +133,7 @@ margin-right:10px;
 .hero-msg a{
     color:#007585;
 }
-/** shop section**/
+ 
 
 .shop-section{
     display:flex;
