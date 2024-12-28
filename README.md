@@ -51,6 +51,9 @@ The Amazon Clone website is designed to help beginners practice front-end web de
 ---
 ## ScrrenShots
 ![image](https://github.com/user-attachments/assets/be299096-1b63-493f-8cef-da4d812c25e1)
+![image](https://github.com/user-attachments/assets/c4454e3c-9a09-4687-b8f9-ff8a3a884462)
+![image](https://github.com/user-attachments/assets/7424ff16-1d2b-4f29-8c58-7115cdaf2940)
+
 
 ## Credits
 - Icons from *Font Awesome*.  
